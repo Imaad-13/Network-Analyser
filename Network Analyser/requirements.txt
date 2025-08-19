@@ -1,0 +1,5 @@
+networkx>=3.0
+ipaddress
+argparse
+dataclasses
+typing
